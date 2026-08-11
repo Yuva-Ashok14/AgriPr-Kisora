@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,soft,wght@9..144,700;9..144,600&family=DM+Sans:wght@400;500;600;700;800&family=Noto+Sans+Telugu:wght@400;500;700&family=Noto+Sans+Tamil:wght@400;600&family=Noto+Sans+Kannada:wght@400;600&family=Noto+Sans+Malayalam:wght@400;600&display=swap');
+* { font-family: "DM Sans", system-ui, -apple-system, sans-serif; }
+h1,h2,.serif { font-family: "Fraunces", serif; }
+::-webkit-scrollbar { display: none; }
+* { scrollbar-width: none; }
